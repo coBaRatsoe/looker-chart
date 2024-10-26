@@ -1,0 +1,26 @@
+{
+  "name": "Looker Radar RKM",
+  "organization": "Ratsoe Himura",
+  "description": "Looker Radar for apps Rapor Kinerja Madrasah",
+  "logoUrl": "https://",
+  "organizationUrl": "https://",
+  "supportUrl": "https://",
+  "privacyPolicyUrl": "https://",
+  "termsOfServiceUrl": "https://",
+  "packageUrl": "https://",
+  "devMode": true,
+  "components": [
+    {
+      "id": "Looker Radar RKM",
+      "name": "RadarRKM",
+      "description": "Radar Chart for Rapor Kinerja Madrasah",
+      "iconUrl": "https://url.png",
+      "infoUrl": "https://url",
+      "resource": {
+        "js": "gs://myViz-bucket-treemap/viz.js",
+        "config": "gs://myViz-bucket-treemap/viz-config.json",
+        "css": "gs://myViz-bucket-treemap/viz.css"
+      }
+    }
+  ]
+}
