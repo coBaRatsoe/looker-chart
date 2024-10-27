@@ -17,9 +17,9 @@
       "iconUrl": "https://url.png",
       "infoUrl": "https://url",
       "resource": {
-        "js": "gs://myViz-bucket-treemap/viz.js",
-        "config": "gs://myViz-bucket-treemap/viz-config.json",
-        "css": "gs://myViz-bucket-treemap/viz.css"
+        "js": "https://cobaratsoe.github.io/looker-chart/index.js",
+        "config": "https://cobaratsoe.github.io/looker-chart/config.json",
+        "css": "https://cobaratsoe.github.io/looker-chart/style.css"
       }
     }
   ]
